@@ -83,9 +83,9 @@ main h2 {
 }
 
 #core-concepts li img {
-  height: 4rem;
-  width: 6rem;
-  object-fit: cover;
+  height: 5rem;
+  width: 5rem;
+  object-fit:cover;
 }
 
 #core-concepts li h3 {
@@ -93,7 +93,7 @@ main h2 {
 }
 
 #core-concepts li p {
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
 #examples {
